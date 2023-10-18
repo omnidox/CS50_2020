@@ -41,7 +41,7 @@ This repository contains the projects and assignments completed as part of the C
 - **pset1** to **pset8**: Problem sets covering various topics from the course.
 - **project**: Final project for the course.
 - **practice.py**: Practice Python script.
-- **CS50x.pdf**: Course-related document.
+- **CS50x.pdf**: Certificate Of Completion.
 
 ## **Course Link**
 [CS50: Introduction to Computer Science - Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
