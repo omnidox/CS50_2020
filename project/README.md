@@ -31,7 +31,9 @@ I then took that data and applied it to a Recycler View. I then implemented a se
 Finally, I used the Zxing barcode scanner library to enable my camera to scan for barcodes, 
 and I tied the code I made for my barcode scanner to my filtering method in order to enable filtering of my recycler view via barcode. 
 
-Now I am able to verify my standards on my phone instead of a desktop computer. 
+Now I am able to verify my standards on my phone instead of a desktop computer. Please see the youtube video below for a Demo. 
+
+https://youtu.be/PPxdT8T-sa8 
 
 
 
